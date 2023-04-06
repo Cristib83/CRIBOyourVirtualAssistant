@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956498705875",
+    "project_id": "cribo-your-virtual-assistant",
+    "storage_bucket": "cribo-your-virtual-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956498705875:android:2b99c96ab70f693a37c326",
+        "android_client_info": {
+          "package_name": "com.aplication.criboyourvirtualassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956498705875-5la15gid32hgq08r8aomalbfd6l0i93f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fp-9CSfLIRdwRs52UfPCdIT0_b8jAoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956498705875-5la15gid32hgq08r8aomalbfd6l0i93f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
